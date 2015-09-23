@@ -1,1 +1,1 @@
-{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "wdts-0.logins", "name" : "_id_" }, { "v" : 1, "key" : { "handle" : 1 }, "unique" : true, "ns" : "wdts-0.logins", "name" : "handle_1", "background" : true, "safe" : null } ] }
+{"indexes":[{"v":NumberInt(1),"key":{"_id":NumberInt(1)},"ns":"wdts-0.logins","name":"_id_"},{"v":NumberInt(1),"key":{"handle":NumberInt(1)},"unique":true,"ns":"wdts-0.logins","name":"handle_1","background":true,"safe":null}]}
