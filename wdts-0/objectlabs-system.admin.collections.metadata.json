@@ -1,1 +1,1 @@
-{"indexes":[{"v":NumberInt(1),"key":{"_id":NumberInt(1)},"ns":"wdts-0.objectlabs-system.admin.collections","name":"_id_"}]}
+{"options":{},"indexes":[{"v":NumberInt(1),"key":{"_id":NumberInt(1)},"ns":"wdts-0.objectlabs-system.admin.collections","name":"_id_"}]}
