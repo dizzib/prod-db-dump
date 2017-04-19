@@ -1,1 +1,1 @@
-{"options":{},"indexes":[{"v":NumberInt(1),"key":{"_id":NumberInt(1)},"name":"_id_","ns":"wdts.logins"},{"v":NumberInt(1),"unique":true,"key":{"handle":NumberInt(1)},"name":"handle_1","ns":"wdts.logins","background":true,"safe":null}]}
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"wdts.logins"},{"v":1,"unique":true,"key":{"handle":1},"name":"handle_1","ns":"wdts.logins","background":true,"safe":null}]}
